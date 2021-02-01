@@ -493,12 +493,12 @@
         <distributionManagement>
 		 <snapshotRepository>
 		    <id>nexus_mohan</id>
-		    <url>http://35.154.218.167:8081/repository/mohan_snapshot/</url>
+		    <url>http://3.17.187.78:8081/repository/maven-snapshots/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>nexus_mohan</id>
-		    <url>http://35.154.218.167:8081/repository/mohan_release/</url>
+		    <url>http://3.17.187.78:8081/repository/petclinic/</url>
 		</repository>
   	</distributionManagement>
         </profile>
