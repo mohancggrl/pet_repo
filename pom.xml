@@ -491,11 +491,6 @@
                 </dependency>
             </dependencies>
         <distributionManagement>
-		 <snapshotRepository>
-		    <id>petclinic</id>
-		    <url>http://3.17.187.78:8081/repository/maven-snapshots/</url>
-		 </snapshotRepository>
-		
 		<repository>
 		    <id>petclinic</id>
 		    <url>http://3.17.187.78:8081/repository/petclinic/</url>
