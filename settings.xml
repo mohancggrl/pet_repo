@@ -130,7 +130,7 @@ under the License.
     -->
     
     <server>
-      <id>nexus_mohan</id>
+      <id>petclinic</id>
       <username>${nexususer}</username>
       <password>${nexuspassword}</password>
     </server>
