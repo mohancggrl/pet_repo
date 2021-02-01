@@ -148,14 +148,14 @@ under the License.
    | server for that repository.
    |-->
   <!-- <mirrors>
-    
+    <!--
     <mirror>
       <id>nexus_mohan</id>
       <mirrorOf>*</mirrorOf>
       <name>Human Readable Name for this Mirror.</name>
       <url>http://35.154.218.167:8081/repository/mohan-group/</url>
     </mirror>
-     
+     -->
   </mirrors>
        |-->
 
